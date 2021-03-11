@@ -8,7 +8,7 @@
       "PermanentResidentCard"
     ],
     "credentialSubject": {
-      "id": "did:key:z6Mkte9e5E2GRozAgYyhktX7eTt9woCR4yJLnaqC88FQCSyY",
+      "id": "did:key:z6MkoRNV8HXSL359z7goH1MS1YQbQbcTVW4xdGM4ZHd55Qak",
       "type": [
         "PermanentResident",
         "Person"
@@ -16,7 +16,7 @@
       "givenName": "JOHN",
       "familyName": "SMITH",
       "gender": "Male",
-      "image": "data:image/png;base64,iVBORw0KGgo...kJggg==",
+      "image": "data:image/jpeg;base64,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",
       "residentSince": "2015-01-01",
       "lprCategory": "C09",
       "lprNumber": "000-000-204",
@@ -24,16 +24,16 @@
       "birthCountry": "Bahamas",
       "birthDate": "1958-08-17"
     },
-    "issuer": "did:sov:danube:VZoG2R1UneUscisG1eLxJb",
-    "issuanceDate": "2020-04-22T10:37:22Z",
+    "issuer": "did:sov:danube:MQ5WYVUsciSd55zXMgYWpM",
+    "issuanceDate": "2021-03-11T14:26:28Z",
     "identifier": "83627465",
     "name": "Permanent Resident Card",
-    "description": "Government of Example Permanent Resident Card.",
+    "description": "Your U.S. Permanent Resident Card gives you the right to live in, work in, and be protected by all laws of the United States provided that you do not commit any actions that would make you removable under immigration law.",
     "proof": {
       "type": "Ed25519Signature2018",
-      "created": "2020-04-22T10:37:22Z",
+      "created": "2021-03-11T14:26:28Z",
       "proofPurpose": "assertionMethod",
-      "verificationMethod": "did:sov:danube:VZoG2R1UneUscisG1eLxJb#key-1",
-      "jws": "eyJjcml0IjpbImI2NCJdLCJiNjQiOmZhbHNlLCJhbGciOiJFZERTQSJ9..BhWew0x-txcroGjgdtK-yBCqoetg9DD9SgV4245TmXJi-PmqFzux6Cwaph0r-mbqzlE17yLebjfqbRT275U1AA"
+      "verificationMethod": "did:sov:danube:MQ5WYVUsciSd55zXMgYWpM#key-1",
+      "jws": "eyJiNjQiOmZhbHNlLCJjcml0IjpbImI2NCJdLCJhbGciOiJFZERTQSJ9..IEzPvsg6yuTyqRMyXZsrneyZOf07o48skErRz4y_7oKGNR5BhWYkNFTKQllLCX6hhcj1XKUGoXNOZlSYg3X9Aw"
     }
 }
